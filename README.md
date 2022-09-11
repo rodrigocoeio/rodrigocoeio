@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rodrigocoeio
+- 👀 I’m interested in helping develop some cool web components
+- 🌱 I’m currently learning software architecture
+- 💞️ I’m looking to collaborate on all kind of web developing
+- 📫 How to reach me? rodrigocoeio@gmail.com feel free
